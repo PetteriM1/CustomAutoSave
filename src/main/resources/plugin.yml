@@ -1,0 +1,5 @@
+name: CustomAutoSave
+main: me.petterim1.autosave.CustomAutoSave
+version: "${pom.version}"
+api: ["1.0.0"]
+author: PetteriM1
